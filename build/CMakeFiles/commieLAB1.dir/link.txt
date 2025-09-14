@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/commieLAB1.dir/link.d CMakeFiles/commieLAB1.dir/src/main.c.o -o commieLAB1
