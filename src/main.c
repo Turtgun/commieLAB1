@@ -148,7 +148,7 @@ void printClasses() {
     }
     for (int i = 0; i < numClasses; i++) {
         printf("\nClass %d:\n", i+1);
-        printf("  Dept: %s  Course: %d  Section: %d\n", s.classes[i].dep, s.classes[i].courseNum, s.classes[i].section);
+        printf("  Dept: %s  Course: %d  Section: %03d\n", s.classes[i].dep, s.classes[i].courseNum, s.classes[i].section);
         printf("  Days: ");
         for (int d = 0; d < 7; d++) if (s.classes[i].days[d]) printf("%s ", DayNames[d]);
         printf("\n");
