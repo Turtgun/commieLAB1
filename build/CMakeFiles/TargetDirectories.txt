@@ -1,3 +1,0 @@
-/home/turt/Desktop/c/commieLAB1/build/CMakeFiles/commieLAB1.dir
-/home/turt/Desktop/c/commieLAB1/build/CMakeFiles/edit_cache.dir
-/home/turt/Desktop/c/commieLAB1/build/CMakeFiles/rebuild_cache.dir
